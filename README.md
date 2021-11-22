@@ -1,2 +1,3 @@
-# hadouken
-Blog
+# Hadouken
+
+Blog for David Wong
