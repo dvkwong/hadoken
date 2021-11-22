@@ -2,7 +2,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 title: Hadouken
 description: Blog
-logo: "/assets/icons/Icon.png"
+logo: "/assets/images/Ryu.jpg"
 search: true
 
 minimal_mistakes_skin: "default" 
