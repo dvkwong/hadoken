@@ -1,3 +1,3 @@
-# Hadouken
+# [Hadoken](https://streetfighter.fandom.com/wiki/Hadoken)
 
-Blog for David Wong
+David Wong's Blog
